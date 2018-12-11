@@ -1,0 +1,6 @@
+C:\Users\Ad\source\repos\EmployeeWebserviceRest\EmployeeWebserviceRest\bin\EmployeeWebserviceRest.dll.config
+C:\Users\Ad\source\repos\EmployeeWebserviceRest\EmployeeWebserviceRest\bin\EmployeeWebserviceRest.dll
+C:\Users\Ad\source\repos\EmployeeWebserviceRest\EmployeeWebserviceRest\bin\EmployeeWebserviceRest.pdb
+C:\Users\Ad\source\repos\EmployeeWebserviceRest\EmployeeWebserviceRest\obj\Debug\EmployeeWebserviceRest.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\EmployeeWebserviceRest\EmployeeWebserviceRest\obj\Debug\EmployeeWebserviceRest.dll
+C:\Users\Ad\source\repos\EmployeeWebserviceRest\EmployeeWebserviceRest\obj\Debug\EmployeeWebserviceRest.pdb

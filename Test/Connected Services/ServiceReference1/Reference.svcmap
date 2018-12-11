@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="82f704c3-5ecf-4874-8392-49efc89d8c53" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:56732/EmployeeNew.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EmployeeNew.xsd" MetadataType="Schema" ID="c813fd1a-2b03-49d3-8f72-575e4ae6b81c" SourceId="1" SourceUrl="http://localhost:56732/EmployeeNew.svc?xsd=xsd2" />
+    <MetadataFile FileName="EmployeeNew1.xsd" MetadataType="Schema" ID="698926a3-bb72-40d2-83b4-66a4ee12f06e" SourceId="1" SourceUrl="http://localhost:56732/EmployeeNew.svc?xsd=xsd1" />
+    <MetadataFile FileName="EmployeeNew.wsdl" MetadataType="Wsdl" ID="8a622e66-94c6-4040-8f87-835e130a2e45" SourceId="1" SourceUrl="http://localhost:56732/EmployeeNew.svc?wsdl" />
+    <MetadataFile FileName="EmployeeNew2.xsd" MetadataType="Schema" ID="05aad05d-79e0-4a0f-acac-a268d98bd778" SourceId="1" SourceUrl="http://localhost:56732/EmployeeNew.svc?xsd=xsd0" />
+    <MetadataFile FileName="EmployeeNew.disco" MetadataType="Disco" ID="605646bb-79ec-41cb-9c06-aea505047178" SourceId="1" SourceUrl="http://localhost:56732/EmployeeNew.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
